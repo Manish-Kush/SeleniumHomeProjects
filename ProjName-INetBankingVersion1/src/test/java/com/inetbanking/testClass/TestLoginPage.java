@@ -5,6 +5,8 @@
 
 package com.inetbanking.testClass;
 
+import org.testng.annotations.Test;
+import org.testng.AssertJUnit;
 import java.io.IOException;
 
 import org.testng.Assert;
@@ -31,16 +33,16 @@ public class TestLoginPage extends BaseClass
 		loginPage.clickOnLoginBTN();
 		logger.info("clicked on Login button");
 		
-		if(driver.getTitle().equalsIgnoreCase("Guru99 Bank Manager HomePage1234"))
+		if(driver.getTitle().equalsIgnoreCase("Guru99 Bank Manager HomePage"))
 		{
 			System.out.println("title of the Home page is : "+driver.getTitle());
-			Assert.assertTrue(true);
+			AssertJUnit.assertTrue(true);
 			logger.info("Login Test passed");
 		}
 		else
 		{
 			captureScreen(driver, "loginTest");
-			Assert.assertTrue(false);
+			AssertJUnit.assertTrue(false);
 			logger.info("Login test failed");
 		}
 	}

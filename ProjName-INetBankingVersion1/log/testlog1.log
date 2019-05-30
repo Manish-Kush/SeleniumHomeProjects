@@ -1,66 +1,22 @@
-
-2019-05-19 20:58:43,710 [main] INFO eBanking - URL is opened where page title is : Guru99 Bank Home Page
-2019-05-19 20:58:49,605 [main] INFO eBanking - user name is provided
-2019-05-19 20:58:49,706 [main] INFO eBanking - password is provided
-2019-05-19 20:58:53,313 [main] INFO eBanking - succefully clicked on login button
-2019-05-19 20:58:55,457 [main] INFO eBanking - login passed!
-2019-05-19 20:58:56,228 [main] INFO eBanking - successfully clicked on logout button.
-2019-05-19 20:59:00,045 [main] INFO eBanking - user name is provided
-2019-05-19 20:59:00,138 [main] INFO eBanking - password is provided
-2019-05-19 20:59:00,557 [main] INFO eBanking - succefully clicked on login button
-2019-05-19 20:59:02,595 [main] WARN eBanking - login failed.
-2019-05-19 20:59:04,288 [main] INFO eBanking - user name is provided
-2019-05-19 20:59:04,372 [main] INFO eBanking - password is provided
-2019-05-19 20:59:05,724 [main] INFO eBanking - succefully clicked on login button
-2019-05-19 20:59:07,732 [main] INFO eBanking - login passed!
-2019-05-19 20:59:09,264 [main] INFO eBanking - successfully clicked on logout button.
-2019-05-19 21:18:10,656 [main] INFO eBanking - URL is opened where page title is : Guru99 Bank Home Page
-2019-05-19 21:18:16,106 [main] INFO eBanking - user name is provided
-2019-05-19 21:18:16,295 [main] INFO eBanking - password is provided
-2019-05-19 21:18:19,324 [main] INFO eBanking - succefully clicked on login button
-2019-05-19 21:18:22,635 [main] INFO eBanking - login passed!
-2019-05-19 21:18:24,340 [main] INFO eBanking - successfully clicked on logout button.
-2019-05-19 21:18:28,458 [main] INFO eBanking - user name is provided
-2019-05-19 21:18:28,559 [main] INFO eBanking - password is provided
-2019-05-19 21:18:28,972 [main] INFO eBanking - succefully clicked on login button
-2019-05-19 21:18:30,994 [main] WARN eBanking - login failed.
-2019-05-19 21:22:31,804 [main] INFO eBanking - URL is opened where page title is : Guru99 Bank Home Page
-2019-05-19 21:22:34,832 [main] INFO eBanking - user name is provided
-2019-05-19 21:22:34,945 [main] INFO eBanking - password is provided
-2019-05-19 21:22:39,130 [main] INFO eBanking - succefully clicked on login button
-2019-05-19 21:22:41,168 [main] INFO eBanking - login passed!
-2019-05-19 21:22:42,191 [main] INFO eBanking - successfully clicked on logout button.
-2019-05-19 21:22:48,164 [main] INFO eBanking - user name is provided
-2019-05-19 21:22:48,252 [main] INFO eBanking - password is provided
-2019-05-19 21:22:48,647 [main] INFO eBanking - succefully clicked on login button
-2019-05-19 21:22:50,673 [main] WARN eBanking - login failed.
-2019-05-19 21:25:22,220 [main] INFO eBanking - URL is opened where page title is : Guru99 Bank Home Page
-2019-05-19 21:25:27,234 [main] INFO eBanking - user name is provided
-2019-05-19 21:25:27,388 [main] INFO eBanking - password is provided
-2019-05-19 21:25:31,394 [main] INFO eBanking - succefully clicked on login button
-2019-05-19 21:25:33,433 [main] INFO eBanking - login passed!
-2019-05-19 21:25:35,247 [main] INFO eBanking - successfully clicked on logout button.
-2019-05-19 21:25:41,413 [main] INFO eBanking - user name is provided
-2019-05-19 21:25:41,503 [main] INFO eBanking - password is provided
-2019-05-19 21:25:41,936 [main] INFO eBanking - succefully clicked on login button
-2019-05-19 21:25:43,956 [main] WARN eBanking - login failed.
-2019-05-19 21:25:48,629 [main] INFO eBanking - user name is provided
-2019-05-19 21:25:48,724 [main] INFO eBanking - password is provided
-2019-05-19 21:25:52,788 [main] INFO eBanking - succefully clicked on login button
-2019-05-19 21:25:54,805 [main] INFO eBanking - login passed!
-2019-05-19 21:25:55,721 [main] INFO eBanking - successfully clicked on logout button.
-2019-05-19 21:29:13,613 [main] INFO eBanking - URL is opened where page title is : Guru99 Bank Home Page
-2019-05-19 21:29:16,068 [main] INFO eBanking - user name is provided
-2019-05-19 21:29:16,178 [main] INFO eBanking - password is provided
-2019-05-19 21:29:18,382 [main] INFO eBanking - succefully clicked on login button
-2019-05-19 21:29:20,470 [main] INFO eBanking - login passed!
-2019-05-19 21:29:22,057 [main] INFO eBanking - successfully clicked on logout button.
-2019-05-19 21:29:26,017 [main] INFO eBanking - user name is provided
-2019-05-19 21:29:26,096 [main] INFO eBanking - password is provided
-2019-05-19 21:29:26,516 [main] INFO eBanking - succefully clicked on login button
-2019-05-19 21:29:28,541 [main] WARN eBanking - login failed.
-2019-05-19 21:29:31,052 [main] INFO eBanking - user name is provided
-2019-05-19 21:29:31,142 [main] INFO eBanking - password is provided
-2019-05-19 21:29:32,700 [main] INFO eBanking - succefully clicked on login button
-2019-05-19 21:29:34,723 [main] INFO eBanking - login passed!
-2019-05-19 21:29:37,584 [main] INFO eBanking - successfully clicked on logout button.
+2019-05-29 23:48:33,365 [main] INFO eBanking - URL is opened where page title is : Guru99 Bank Home Page
+2019-05-29 23:48:33,495 [main] INFO eBanking - Chrome browser Opened succesfully.
+2019-05-29 23:48:33,874 [main] INFO eBanking - UserName entered succesfully
+2019-05-29 23:48:34,056 [main] INFO eBanking - Password entered successfully
+2019-05-29 23:48:36,500 [main] INFO eBanking - clicked on Login button
+2019-05-29 23:48:36,538 [main] INFO eBanking - Login Test passed
+2019-05-29 23:48:57,654 [main] INFO eBanking - URL is opened where page title is : Guru99 Bank Home Page
+2019-05-29 23:49:00,691 [main] INFO eBanking - user name is provided
+2019-05-29 23:49:00,745 [main] INFO eBanking - password is provided
+2019-05-29 23:49:03,394 [main] INFO eBanking - succefully clicked on login button
+2019-05-29 23:49:05,420 [main] INFO eBanking - login passed!
+2019-05-29 23:49:06,767 [main] INFO eBanking - successfully clicked on logout button.
+2019-05-29 23:49:10,261 [main] INFO eBanking - user name is provided
+2019-05-29 23:49:10,426 [main] INFO eBanking - password is provided
+2019-05-29 23:49:11,720 [main] INFO eBanking - succefully clicked on login button
+2019-05-29 23:49:13,732 [main] INFO eBanking - login passed!
+2019-05-29 23:49:15,355 [main] INFO eBanking - successfully clicked on logout button.
+2019-05-29 23:49:18,735 [main] INFO eBanking - user name is provided
+2019-05-29 23:49:18,850 [main] INFO eBanking - password is provided
+2019-05-29 23:49:20,157 [main] INFO eBanking - succefully clicked on login button
+2019-05-29 23:49:22,162 [main] INFO eBanking - login passed!
+2019-05-29 23:49:23,728 [main] INFO eBanking - successfully clicked on logout button.

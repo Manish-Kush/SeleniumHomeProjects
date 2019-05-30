@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
-<suite guice-stage="DEVELOPMENT" name="Failed suite [INetBankingVersion1]">
+<suite name="Failed suite [INetBankingVersion1]" guice-stage="DEVELOPMENT">
   <listeners>
     <listener class-name="com.inetbanking.utilities.Reporting"/>
   </listeners>
   <test thread-count="5" name="Banking Application Test(failed)">
     <parameter name="browser" value="chrome"/>
     <classes>
-      <class name="com.inetbanking.testClass.TestLoginPage_DataDriven">
+      <class name="com.inetbanking.testClass.TestLoginPage">
         <methods>
-          <include name="loginTestDataDriven" invocation-numbers="1 2"/>
           <include name="tearDown"/>
           <include name="setUp"/>
+          <include name="loginTest"/>
         </methods>
-      </class> <!-- com.inetbanking.testClass.TestLoginPage_DataDriven -->
+      </class> <!-- com.inetbanking.testClass.TestLoginPage -->
     </classes>
   </test> <!-- Banking Application Test(failed) -->
 </suite> <!-- Failed suite [INetBankingVersion1] -->

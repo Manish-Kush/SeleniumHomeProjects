@@ -7,12 +7,12 @@
 	</listeners>
 
 		<test name = "Banking Application Test">
-			<parameter name="browser" value="chrome"></parameter>
+		<!-- <parameter name="browser" value="chrome"></parameter>  -->	
+			<parameter name="browser" value="firefox"></parameter>
 				<classes>
-					<!--  <class name="com.inetbanking.testClass.TestLoginPage" /> -->
-					<class name="com.inetbanking.testClass.TestLoginPage_DataDriven"></class>
+					<class name="com.inetbanking.testClass.TestLoginPage" />
+					<class name="com.inetbanking.testClass.TestLoginPage_DataDriven" />	
 				</classes>
-		
 		</test>
 
 </suite>

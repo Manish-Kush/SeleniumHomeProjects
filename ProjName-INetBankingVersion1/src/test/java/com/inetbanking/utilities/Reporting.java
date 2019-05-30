@@ -30,14 +30,14 @@ public class Reporting extends TestListenerAdapter
 		String repName = "Test-Report-"+timeStamp+".html";
 		htmlReporter = new ExtentHtmlReporter(System.getProperty("user.dir")+"/test/output/"+repName);
 		//htmlReporter.loadXMLConfig(System.getProperty("user.dir"+"/extent-config.xml"));
-		htmlReporter.loadXMLConfig("F:\\testNG_Programs\\ProjName-INetBankingVersion1\\extent-config.xml");
+		htmlReporter.loadXMLConfig("/home/manish/Desktop/Driver/extent-config.xml");
 		
 		extent = new ExtentReports();
 		
 		extent.attachReporter(htmlReporter);
-		extent.setSystemInfo("Host name", "localhost");
+		extent.setSystemInfo("Host Name", "localhost");
 		extent.setSystemInfo("Enviroment", "QA");
-		extent.setSystemInfo("user", "manish");
+		extent.setSystemInfo("User Name", "Manish Kushwaha");
 
 		htmlReporter.config().setDocumentTitle("INet Banking Project");
 		htmlReporter.config().setReportName("Functional Test Automation Report");
@@ -58,7 +58,7 @@ public class Reporting extends TestListenerAdapter
 		logger.log(Status.FAIL, MarkupHelper.createLabel(testResult.getName(), ExtentColor.RED));
 		
 		//String screenShotPath = System.getProperty("user.dir")+"/ScreenShots/"+testResult.getName()+".png";
-		String screenShotPath = "F:\\testNG_Programs\\ProjName-INetBankingVersion1\\ScreenShots"+testResult.getName()+".png";
+		String screenShotPath = "home\\manish\\Desktop\\PracticeCodes\\SeleniumHomeProjects\\ProjName-INetBankingVersion1\\ScreenShots"+testResult.getName()+".png";
 		
 		File file = new File(screenShotPath);
 		

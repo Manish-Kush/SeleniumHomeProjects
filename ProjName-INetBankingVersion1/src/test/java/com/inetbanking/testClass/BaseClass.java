@@ -4,7 +4,6 @@
  * */
 package com.inetbanking.testClass;
 
-
 import java.io.File;
 import java.io.IOException;
 import java.util.concurrent.TimeUnit;
@@ -42,7 +41,7 @@ public class BaseClass
 	{
 		//configuration we have to do for the base class
 		logger = Logger.getLogger("eBanking"); //name of the project
-		PropertyConfigurator.configure("Log4j.properties");
+		PropertyConfigurator.configure("log4j.properties");
 		
 		if(br.equalsIgnoreCase("chrome"))
 		{

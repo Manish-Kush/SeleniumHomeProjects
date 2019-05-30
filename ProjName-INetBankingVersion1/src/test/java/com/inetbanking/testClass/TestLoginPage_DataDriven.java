@@ -1,12 +1,12 @@
 package com.inetbanking.testClass;
 
+import org.testng.annotations.Test;
 import java.io.IOException;
 
 import org.openqa.selenium.Alert;
 import org.openqa.selenium.NoAlertPresentException;
 import org.testng.Assert;
 import org.testng.annotations.DataProvider;
-import org.testng.annotations.Test;
 
 import com.inetbanking.pageObject.HomePage;
 import com.inetbanking.pageObject.LoginPage;
