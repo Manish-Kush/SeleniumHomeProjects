@@ -1,5 +1,7 @@
 package com.inetbanking.testClass;
-
+/**
+ * test git
+ * */
 import org.testng.annotations.Test;
 import java.io.IOException;
 
